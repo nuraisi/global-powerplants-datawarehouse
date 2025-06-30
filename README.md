@@ -24,5 +24,4 @@ Pendekatan dan langkah-langkah utama:
     - Negara dengan total energi terbesar  
     - Bahan bakar paling sering digunakan di seluruh negara  
     - Jenis bahan bakar dengan jumlah pembangkit terbanyak di setiap negara
-
 5. Visualisasi dan interaksi data menggunakan Atoti session widget.
